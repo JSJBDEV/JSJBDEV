@@ -1,8 +1,10 @@
 ## Hello, World!
 
-I tend to make minecraft mods.
+I tend to make Java programs (minecraft mods).
 
-Some of those minecraft mods are good.
+I do occasionally make other things, I tend to prefer Java-like langauges like C#
 
-I do occasionally make other things, but my passion is Java (and Java-like languages)
+
+
+
 
